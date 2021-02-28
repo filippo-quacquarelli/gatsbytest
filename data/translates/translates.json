@@ -1,0 +1,54 @@
+[
+    {
+        "lang": "it",
+        "strings": [
+            {
+                "label": "calltoaction",
+                "value": "Prenota"
+            },
+            {
+                "label": "contattaci",
+                "value": "Contattaci"
+            },
+            {
+                "label": "ristorante",
+                "value": "Ristorante"
+            },
+            {
+                "label": "prodotti",
+                "value": "Prodotti locali di qualità"
+            },
+            {
+                "label": "sonofooter",
+                "value": "Sono un footer"
+            }
+        ]
+    },
+    {
+        "lang": "en",
+        "strings": [
+            {
+                "label": "calltoaction",
+                "value": "Book now"
+            },
+            {
+                "label": "contattaci",
+                "value": "Contacts"
+            },
+            {
+                "label": "ristorante",
+                "value": "Restaurant"
+            },
+            {
+                "label": "prodotti",
+                "value": "Local quality products"
+            },
+            {
+                "label": "sonofooter",
+                "value": "I am a footer"
+            }
+        ]
+    }
+]
+
+  
